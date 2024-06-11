@@ -3,7 +3,7 @@ pygame.init()
 pygame.font.init()
 pygame.mixer.init()
 
-from random import randint, choice 
+from random import randint
 
 # Parameters
 WIDTH, HEIGHT = 800, 400
